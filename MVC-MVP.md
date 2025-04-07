@@ -1,5 +1,5 @@
 ## Характеристика MVC
-
+![Зображення](https://media.licdn.com/dms/image/v2/D4E22AQE0pXBjBgBdKQ/feedshare-shrink_800/feedshare-shrink_800/0/1690400215184?e=2147483647&v=beta&t=2EuYXNNi2-RV5d_ZpsqYtFs4oOGAverwp9XwJaP3a3w)
 ### Основні компоненти
 - **Model**  
   Відповідає за управління даними та бізнес-логікою. Забезпечує зберігання, обробку та валідацію даних.
